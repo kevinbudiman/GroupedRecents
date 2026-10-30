@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grouped Recents</string>
+    <string name="a11y_description">Mendeteksi saat layar Recents dibuka, lalu menampilkan aplikasi terakhir yang dikelompokkan sesuai grup buatanmu. Layanan ini hanya membaca nama paket aplikasi dan ID tampilan launcher, tidak membaca isi ketikan atau data pribadi.</string>
+</resources>
